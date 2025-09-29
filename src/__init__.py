@@ -1,0 +1,4 @@
+
+"""
+AI Coding Agent package.
+"""
